@@ -4,7 +4,7 @@ The API to read codes is implemented in the SpringBoot application:
 SpringBootTutorial
 The countries currently included in this application are:
 
-Afghanistan
-Iran
-USA
+Afghanistan,
+Iran,
+USA,
 UK
