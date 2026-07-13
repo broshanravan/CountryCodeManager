@@ -2,3 +2,9 @@ By entering a country's name the application will retrieve the code from an API
 in Case there are more tha one code for a country, the application will then return the largest one as the latest.
 The API to read codes is implemented in the SpringBoot application:
 SpringBootTutorial
+The countries currently included in this application are:
+
+Afghanistan
+Iran
+USA
+UK
